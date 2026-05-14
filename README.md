@@ -13,8 +13,6 @@ A professional Hospital Management System built with Python. It features field-l
 2. Configure Rclone with Google Drive.
 3. Run: `./Hospital_App.sh`
 
-## Screenshots:
-
 ## How to Run:
 Follow these steps to set up the application on your Linux system:
 
