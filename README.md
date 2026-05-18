@@ -17,7 +17,7 @@ A professional Hospital Management System built with Python. It features field-l
 Follow these steps to set up the application on your Linux system:
 
 ​Step 1: Clone the Repository
-​Open your terminal and run: `git clone https://github.com/your-username/Hospital-Secure-System.git
+​Open your terminal and run: `git clone https://github.com/imtiaj007/Hospital-Secure-System.git
 cd Hospital-Secure-System`
 
 Step 2: Install Required Libraries
